@@ -32,11 +32,11 @@ My name is Ernest Łabiński a and I am working as a Quality Controller in Pilki
 * Using MS Office
 
 ## My test case example:
-[Test case](https://github.com/Labinski/Portfolio/blob/main/images/test_case_example.PNG)
+* [Test case](https://github.com/Labinski/Portfolio/blob/main/images/test_case_example.PNG)
 
 ## My bug report example:
-[Bug report part 1 using Jira](https://github.com/Labinski/Portfolio/blob/main/images/zgloszeniebledu1.PNG)
-[Bug report part 2 using Jira](https://github.com/Labinski/Portfolio/blob/main/images/zgloszeniebledu2.PNG)
+* [Bug report part 1 using Jira](https://github.com/Labinski/Portfolio/blob/main/images/zgloszeniebledu1.PNG)
+* [Bug report part 2 using Jira](https://github.com/Labinski/Portfolio/blob/main/images/zgloszeniebledu2.PNG)
 
 ## My automated test example: 
-[Demo shop tests using Python](https://github.com/Labinski/Portfolio/tree/main/Automated%20Demo%20Shop%20Website%20Tests)
+* [Demo shop tests using Python](https://github.com/Labinski/Portfolio/tree/main/Automated%20Demo%20Shop%20Website%20Tests)
