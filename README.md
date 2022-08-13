@@ -5,8 +5,8 @@ My name is Ernest Łabiński and I am working as a Quality Controller in Pilking
 
 ## Finished courses:
 * Selenium WebDriver + Python - jaktestowac
-* Jira and Confluence - through a friend
-* SQL course - YT 
+* Jira and Confluence 
+* SQL course  
 
 ## Browser used during testing:
 * Firefox
