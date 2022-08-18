@@ -17,7 +17,6 @@ My name is Ernest Łabiński and I am working as a Quality Controller in Pilking
 * Python
 * Selenium
 * SQL
-* Git (GitBash, GitHub, GitLab)
 * Jira
 * Confluence
 * Devtools
